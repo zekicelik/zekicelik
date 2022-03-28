@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at getir
-- - 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS
 
 <!--
 **zekicelik/zekicelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
