@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at getir
+- 🔭 I’m currently working at Ericsson TR
 - 🌱 I’m currently learning AWS
 
 <!--
