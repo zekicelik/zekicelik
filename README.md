@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Ericsson TR
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working at Innovance
+- 🌱 I’m currently learning python & microservices
 
 <!--
 **zekicelik/zekicelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
