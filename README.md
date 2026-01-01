@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Innovance
-- 🌱 I’m currently learning python & microservices
+- 🌱 I’m currently learning system design & microservices
+- 👯 I'm available for opportunities to contribute opensource projects 
 
 <!--
 **zekicelik/zekicelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
